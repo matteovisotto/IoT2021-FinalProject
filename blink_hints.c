@@ -17,10 +17,10 @@ PROCESS_THREAD(hello_world_process, ev, data)
     static struct etimer timer;
     static int count = 0;
 
-     // any process mustt start with this.
+     // any process must start with this.
     PROCESS_BEGIN();
 
-     // set the etimer module to generate an event in one second.
+     // set the timer module to generate an event in one second.
      etimer_set(&timer, CLOCK_CONF_SECOND);
      while (1)
      {
@@ -57,7 +57,7 @@ PROCESS_THREAD(hello_world_process, ev, data)
          // we set the timer from here every time
          etimer_set(&timer, CLOCK_CONF_SECOND / 4);
 
-         // and wait until the vent we receive is the one we're waiting for
+         // and wait until the event we receive is the one we're waiting for
          PROCESS_WAIT_EVENT_UNTIL(ev == PROCESS_EVENT_TIMER);
 
          // update the LEDs
