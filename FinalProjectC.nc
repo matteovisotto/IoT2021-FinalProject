@@ -17,24 +17,24 @@ implementation {
 
   message_t packet;
 
+  uint16_t packetCounter = 0;
   bool locked;
-  uint16_t rCounter = 0;
   uint8_t myId = 0;
-  
+  uint8_t motes[5];
+  uint16_t packets[5];
+  uint8_t rID;
+  uint16_t pID;
   
   event void Boot.booted() {
+  	memset(motes, 0, sizeof(motes));
+  	memset(packets, 0, sizeof(packets));
   	myId = TOS_NODE_ID;
     call AMControl.start();
-    printf("Booted\n");
-    printf("Mote id: %u\n", TOS_NODE_ID);
-    printfflush();
   }
 
   event void AMControl.startDone(error_t err) {
     if (err == SUCCESS) {
     uint16_t freq = 500;
-    printf("Frequenza: %ld\n", freq);
-    printfflush();
     call MilliTimer.startPeriodic(freq);
     }
     else {
@@ -56,8 +56,11 @@ implementation {
       if (rcm == NULL) {
 	return;
       }
-
+	
+	  packetCounter++;
       rcm->sender_id = TOS_NODE_ID;
+      rcm->packet_id = packetCounter;
+      
       if (call AMSend.send(AM_BROADCAST_ADDR, &packet, sizeof(radio_count_msg_t)) == SUCCESS) {
 	locked = TRUE;
       }
@@ -72,10 +75,21 @@ implementation {
     	return bufPtr;
     } else {
     	radio_count_msg_t* rcm = (radio_count_msg_t*) payload;
-    	rCounter++;
-    	printf("Sender ID: %u\n", rcm->sender_id);
-    	printfflush();
     	
+    	pID = rcm->packet_id;
+    	rID = rcm->sender_id;
+    	
+    	if(packets[rID-1] == pID-1 || motes[rID-1] == 0){
+    		packets[rID-1] = pID;
+    		motes[rID-1]++;
+    		if(motes[rID-1] == 10){
+    			motes[rID-1] = 0;
+    			printf("{'my_id': %u, 'other_id' : %u}\n", myId, rID);
+    			printfflush();
+    		}
+    	} else {
+    		motes[rID-1] = 0;
+    	} 
     	
     	return bufPtr;
     }
