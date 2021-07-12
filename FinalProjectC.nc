@@ -3,6 +3,8 @@
 #include "FinalProject.h"
 #include "printf.h"
 
+#define N_MOTES 5
+
 module FinalProjectC @safe() {
   uses {
     interface Boot;
@@ -20,8 +22,8 @@ implementation {
   uint16_t packetCounter = 0;
   bool locked;
   uint8_t myId = 0;
-  uint8_t motes[5];
-  uint16_t packets[5];
+  uint8_t motes[N_MOTES];
+  uint16_t packets[N_MOTES];
   uint8_t rID;
   uint16_t pID;
   

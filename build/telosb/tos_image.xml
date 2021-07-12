@@ -1,13 +1,13 @@
 <tos_image>
   <ident>
-    <timestamp>60EC229FL</timestamp>
-    <deluge_support>no</deluge_support>
-    <appname>FinalProjectApp</appname>
-    <platform>telosb</platform>
-    <uidhash>D7A01EEEL</uidhash>
-    <username>user</username>
-    <userhash>2C00343AL</userhash>
     <hostname>user-iot</hostname>
+    <platform>telosb</platform>
+    <appname>FinalProjectApp</appname>
+    <username>user</username>
+    <uidhash>65B16BB3L</uidhash>
+    <timestamp>60EC44A3L</timestamp>
+    <userhash>2C00343AL</userhash>
+    <deluge_support>no</deluge_support>
   </ident>
   <image format="ihex">
 :104000005542200135D0085A824598143140003974
