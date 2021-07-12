@@ -84,7 +84,7 @@ implementation {
     		motes[rID-1]++;
     		if(motes[rID-1] == 10){
     			motes[rID-1] = 0;
-    			printf("{'my_id': %u, 'other_id' : %u}\n", myId, rID);
+    			printf("{\"my_id\":%u, \"other_id\":%u}\n", myId, rID);
     			printfflush();
     		}
     	} else {
