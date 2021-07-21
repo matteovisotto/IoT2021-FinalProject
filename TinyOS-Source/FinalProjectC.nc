@@ -90,7 +90,7 @@ implementation {
     			printfflush();
     		}
     	} else {
-    		motes[rID-1] = 0;
+    		motes[rID-1] = 1; //The first non-consecutive packet has been received 
     	} 
     	
     	//printf("DEBUG: myID: %u - rID: %u - pID: %u - Last_pID: %u - Counter: %u\n", myId, rID, pID, packets[rID-1], motes[rID-1]);
