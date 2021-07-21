@@ -1,129 +1,159 @@
-00:49.758	ID:3	~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 93 - Last_pID: 93 - Count+~~Eder: 1
-00:49.929	ID:2	~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 92 - Last_pID: 92 - CountP~~Eder: 1
-00:50.242	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 94 - Last_pID: 94 - Count~~Eder: 2
-00:50.415	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 93 - Last_pID: 93 - Count+~~Eder: 2
-00:50.730	ID:3	D~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 95 - Last_pID: 95 - Countd~~Eder: 3
-00:50.905	ID:2	D~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 94 - Last_pID: 94 - Count~~Eder: 3
-00:51.219	ID:3	s~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 96 - Last_pID: 96 - Count~~Eder: 4
-00:51.398	ID:2	s~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 95 - Last_pID: 95 - Countd~~Eder: 4
-00:52.680	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 99 - Last_pID: 96 - Count=~~Eder: 0
-00:52.855	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 98 - Last_pID: 95 - Count'~~Eder: 0
-00:53.171	ID:3	*~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 100 - Last_pID: 100 - Cou ~~Ednter: 1
-00:53.348	ID:2	*~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 99 - Last_pID: 99 - Count~~Eder: 1
-00:53.661	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 101 - Last_pID: 101 - CouJ[~~Ednter: 2
-00:53.836	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 100 - Last_pID: 100 - Cou ~~Ednter: 2
-00:57.251	ID:2	S~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 107 - Last_pID: 100 - Cou0~~Ednter: 0
-00:57.570	ID:3	S~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 109 - Last_pID: 101 - CouqC~~Ednter: 0
-00:57.739	ID:2	b~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 108 - Last_pID: 108 - Cou~~Ednter: 1
-00:58.057	ID:3	b~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 110 - Last_pID: 110 - Cou~~Ednter: 1
-00:58.231	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 109 - Last_pID: 109 - Cou~~Ednter: 2
-00:58.547	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 111 - Last_pID: 111 - Cou+~~Ednter: 2
-00:58.716	ID:2	S~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 110 - Last_pID: 110 - Cou~~Ednter: 3
-00:58.718	ID:2	
-00:59.037	ID:3	S~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 112 - Last_pID: 112 - Cou\~~Ednter: 3
-00:59.039	ID:3	
-00:59.208	ID:2	>~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 111 - Last_pID: 111 - Cou+~~Ednter: 4
-00:59.519	ID:3	>~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 113 - Last_pID: 113 - Couo~~Ednter: 4
-00:59.694	ID:2	#/~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 112 - Last_pID: 112 - Cou\~~Ednter: 5
-01:00.005	ID:3	#/~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 114 - Last_pID: 114 - Cou;~~Ednter: 5
-01:00.184	ID:2	B~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 113 - Last_pID: 113 - Couo~~Ednter: 6
-01:00.493	ID:3	B~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 115 - Last_pID: 115 - CouQn~~Ednter: 6
-01:00.668	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 114 - Last_pID: 114 - Cou;~~Ednter: 7
-01:00.983	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 116 - Last_pID: 116 - Cou~~Ednter: 7
-01:01.156	ID:2	K~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 115 - Last_pID: 115 - CouQn~~Ednter: 8
-01:25.400	ID:3	K~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 166 - Last_pID: 116 - Cou~~Ednter: 0
-01:25.575	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 165 - Last_pID: 115 - CouX~~Ednter: 0
-01:25.892	ID:3	b~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 167 - Last_pID: 167 - Cou~~Ednter: 1
-01:26.062	ID:2	b~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 166 - Last_pID: 166 - Cou[~~Ednter: 1
-01:26.379	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 168 - Last_pID: 168 - Couw?~~Ednter: 2
-01:26.553	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 167 - Last_pID: 167 - Cou~~Ednter: 2
-01:26.865	ID:3	S~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 169 - Last_pID: 169 - Cou~~Ednter: 3
-01:26.866	ID:3	
-01:27.038	ID:2	S~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 168 - Last_pID: 168 - Couw?~~Ednter: 3
-01:27.039	ID:2	
-01:27.350	ID:3	>~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 170 - Last_pID: 170 - Cou1~~Ednter: 4
-01:27.529	ID:2	>~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 169 - Last_pID: 169 - Cou~~Ednter: 4
-01:27.841	ID:3	#/~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 171 - Last_pID: 171 - Cou[~~Ednter: 5
-01:28.014	ID:2	#/~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 170 - Last_pID: 170 - Cou1~~Ednter: 5
-01:28.328	ID:3	B~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 172 - Last_pID: 172 - Coun~~Ednter: 6
-01:28.502	ID:2	B~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 171 - Last_pID: 171 - Cou[~~Ednter: 6
-01:28.819	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 173 - Last_pID: 173 - Cou~~Ednter: 7
-01:28.994	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 172 - Last_pID: 172 - Coun~~Ednter: 7
-01:29.301	ID:3	K~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 174 - Last_pID: 174 - Cou~~Ednter: 8
-01:29.483	ID:2	K~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 173 - Last_pID: 173 - Cou~~Ednter: 8
-01:29.790	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 175 - Last_pID: 175 - Cou\~~Ednter: 9
-01:29.970	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 174 - Last_pID: 174 - Cou~~Ednter: 9
-01:30.281	ID:3	~~Ed{"my_id":3, "other_id":2}]
-01:30.291	ID:3	?~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 176 - Last_pID: 176 - Cou+~~Ednter: 0
-01:30.455	ID:2	~~Ed{"my_id":2, "other_id":3}]
-01:30.465	ID:2	K~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 175 - Last_pID: 175 - Cou\~~Ednter: 0
-01:30.771	ID:3	b~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 177 - Last_pID: 177 - Coue~~Ednter: 1
-01:30.947	ID:2	b~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 176 - Last_pID: 176 - Cou+~~Ednter: 1
-01:34.180	ID:4	~EdDEBUG: myID: 4 - rID: 5 - pIv~~EdD: 183 - Last_pID: 183 - Cou\G~~Ednter: 1
-01:34.304	ID:5	~EdDEBUG: myID: 5 - rID: 4 - pI~~EdD: 184 - Last_pID: 184 - Couu~~Ednter: 1
-01:34.667	ID:4	~~EdDEBUG: myID: 4 - rID: 5 - pIv~~EdD: 184 - Last_pID: 184 - Couu~~Ednter: 2
-01:34.792	ID:5	~~EdDEBUG: myID: 5 - rID: 4 - pI~~EdD: 185 - Last_pID: 185 - Coub~~Ednter: 2
-01:35.160	ID:4	S~~EdDEBUG: myID: 4 - rID: 5 - pIv~~EdD: 185 - Last_pID: 185 - Coub~~Ednter: 3
-01:35.162	ID:4	
-01:35.277	ID:5	S~~EdDEBUG: myID: 5 - rID: 4 - pI~~EdD: 186 - Last_pID: 186 - Cou~~Ednter: 3
-01:35.278	ID:5	
-01:35.641	ID:3	~~EdDEBUG: myID: 3 - rID: 5 - pI~~EdD: 186 - Last_pID: 186 - Cou~~Ednter: 1
-01:35.830	ID:5	>~~EdDEBUG: myID: 5 - rID: 3 - pIU~~EdD: 186 - Last_pID: 186 - Cou~~Ednter: 1
-01:36.133	ID:3	~~EdDEBUG: myID: 3 - rID: 5 - pI~~EdD: 187 - Last_pID: 187 - Cou~~Ednter: 2
-01:36.314	ID:5	~~EdDEBUG: myID: 5 - rID: 3 - pIU~~EdD: 187 - Last_pID: 187 - Cou~~Ednter: 2
-01:36.620	ID:3	S~~EdDEBUG: myID: 3 - rID: 5 - pI~~EdD: 188 - Last_pID: 188 - CouU~~Ednter: 3
-01:36.621	ID:3	
-01:36.803	ID:5	S~~EdDEBUG: myID: 5 - rID: 3 - pIU~~EdD: 188 - Last_pID: 188 - CouU~~Ednter: 3
-01:36.804	ID:5	
-01:37.109	ID:3	>~~EdDEBUG: myID: 3 - rID: 5 - pI~~EdD: 189 - Last_pID: 189 - Cou?f~~Ednter: 4
-01:37.599	ID:1	~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 190 - Last_pID: 190 - Cou@~~Ednter: 1
-01:37.757	ID:5	>~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 191 - Last_pID: 191 - Couy~~Ednter: 1
-01:38.086	ID:1	~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 191 - Last_pID: 191 - Couy~~Ednter: 2
-01:38.241	ID:5	~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 192 - Last_pID: 192 - Cou~~Ednter: 2
-01:38.575	ID:1	S~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 192 - Last_pID: 192 - Cou~~Ednter: 3
-01:38.577	ID:1	
-01:38.728	ID:5	S~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 193 - Last_pID: 193 - Cou7~~Ednter: 3
-01:38.730	ID:5	
-01:39.065	ID:1	>~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 193 - Last_pID: 193 - Cou7~~Ednter: 4
-01:39.222	ID:5	>~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 194 - Last_pID: 194 - Cou~~Ednter: 4
-01:39.546	ID:1	#/~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 194 - Last_pID: 194 - Cou~~Ednter: 5
-01:40.037	ID:2	~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 195 - Last_pID: 195 - Cou~~Ednter: 1
-01:40.047	ID:5	#/~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 196 - Last_pID: 196 - Cou-~~Ednter: 1
-01:40.531	ID:2	~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 196 - Last_pID: 196 - Cou-~~Ednter: 2
-01:40.539	ID:5	~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 197 - Last_pID: 197 - CouGr~~Ednter: 2
-01:41.017	ID:2	S~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 197 - Last_pID: 197 - CouGr~~Ednter: 3
-01:41.019	ID:2	
-01:41.027	ID:5	S~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 198 - Last_pID: 198 - Cou~~Ednter: 3
-01:41.029	ID:5	
-01:41.507	ID:2	>~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 198 - Last_pID: 198 - Cou~~Ednter: 4
-01:41.510	ID:5	>~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 199 - Last_pID: 199 - Cou~~Ednter: 4
-01:41.996	ID:2	#/~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 199 - Last_pID: 199 - Cou~~Ednter: 5
-01:42.006	ID:5	#/~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 200 - Last_pID: 200 - Coue~~Ednter: 5
-01:42.484	ID:1	B~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 200 - Last_pID: 194 - Cou3~~Ednter: 0
-01:42.633	ID:5	B~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 201 - Last_pID: 194 - Cou8~~Ednter: 0
-01:42.970	ID:1	b~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 201 - Last_pID: 201 - Cou~~Ednter: 1
-01:43.122	ID:5	b~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 202 - Last_pID: 202 - CouM~~Ednter: 1
-01:43.452	ID:1	~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 202 - Last_pID: 202 - CouM~~Ednter: 2
-01:43.616	ID:5	~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 203 - Last_pID: 203 - Cou'~~Ednter: 2
-01:43.945	ID:1	S~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 203 - Last_pID: 203 - Cou'~~Ednter: 3
-01:43.947	ID:1	
-01:44.097	ID:5	S~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 204 - Last_pID: 204 - Cous ~~Ednter: 3
-01:44.098	ID:5	
-01:44.437	ID:1	>~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 204 - Last_pID: 204 - Cous ~~Ednter: 4
-01:44.584	ID:5	>~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 205 - Last_pID: 205 - Cou~~Ednter: 4
-01:44.919	ID:1	#/~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 205 - Last_pID: 205 - Cou~~Ednter: 5
-01:45.077	ID:5	#/~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 206 - Last_pID: 206 - Cou~~Ednter: 5
-01:45.405	ID:1	B~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 206 - Last_pID: 206 - Cou~~Ednter: 6
-01:45.561	ID:5	B~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 207 - Last_pID: 207 - CouW~~Ednter: 6
-01:45.896	ID:1	~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 207 - Last_pID: 207 - CouW~~Ednter: 7
-01:46.052	ID:5	~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 208 - Last_pID: 208 - Cou.~~Ednter: 7
-01:46.384	ID:1	K~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 208 - Last_pID: 208 - Cou.~~Ednter: 8
-01:46.542	ID:5	K~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 209 - Last_pID: 209 - CouD3~~Ednter: 8
-01:46.872	ID:1	~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 209 - Last_pID: 209 - CouD3~~Ednter: 9
-01:47.034	ID:5	~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 210 - Last_pID: 210 - Couh~~Ednter: 9
-01:47.362	ID:1	~~Ed{"my_id":1, "other_id":5}]
-01:47.372	ID:1	o~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 210 - Last_pID: 210 - Couh~~Ednter: 0
-01:47.512	ID:5	~~Ed{"my_id":5, "other_id":1}]
-01:47.522	ID:5	v5~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 211 - Last_pID: 211 - Cou~~Ednter: 0
-01:47.848	ID:1	b~~EdDEBUG: myID: 1 - rID: 5 - pIC~~EdD: 211 - Last_pID: 211 - Cou~~Ednter: 1
-01:48.003	ID:5	b~~EdDEBUG: myID: 5 - rID: 1 - pI~~EdD: 212 - Last_pID: 212 - Cou~~Ednter: 1
+00:07.388	ID:1	~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 6 - Last_pID: 6 - CounterU~~Ed: 1
+00:07.424	ID:4	~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 6 - Last_pID: 6 - CounterU~~Ed: 1
+00:07.879	ID:1	-~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 7 - Last_pID: 7 - Counter~~Ed: 2
+00:07.908	ID:4	-~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 7 - Last_pID: 7 - Counter~~Ed: 2
+00:08.360	ID:1	z~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 8 - Last_pID: 8 - CounterT~~Ed: 3
+00:08.396	ID:4	z~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 8 - Last_pID: 8 - CounterT~~Ed: 3
+00:08.847	ID:1	e~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 9 - Last_pID: 9 - CounterC~~Ed: 4
+00:08.880	ID:4	e~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 9 - Last_pID: 9 - CounterC~~Ed: 4
+00:09.342	ID:1	_~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 10 - Last_pID: 10 - Count~~Eder: 5
+00:09.370	ID:4	_~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 10 - Last_pID: 10 - Count~~Eder: 5
+00:09.825	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 11 - Last_pID: 11 - Countc~~Eder: 6
+00:09.863	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 11 - Last_pID: 11 - Countc~~Eder: 6
+00:10.318	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 12 - Last_pID: 12 - Count~~Eder: 7
+00:10.351	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 12 - Last_pID: 12 - Count~~Eder: 7
+00:10.805	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 13 - Last_pID: 13 - Count~~Eder: 8
+00:10.839	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 13 - Last_pID: 13 - Count~~Eder: 8
+00:22.521	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 37 - Last_pID: 37 - Count~~Eder: 1
+00:22.553	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 37 - Last_pID: 37 - Count~~Eder: 1
+00:23.008	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 38 - Last_pID: 38 - Countk~~Eder: 2
+00:23.049	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 38 - Last_pID: 38 - Countk~~Eder: 2
+00:23.500	ID:1	D~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 39 - Last_pID: 39 - Count~~Eder: 3
+00:23.532	ID:4	D~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 39 - Last_pID: 39 - Count~~Eder: 3
+00:23.988	ID:1	s~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 40 - Last_pID: 40 - Count>~~Eder: 4
+00:24.022	ID:4	s~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 40 - Last_pID: 40 - Count>~~Eder: 4
+00:24.480	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 41 - Last_pID: 41 - Count~~Eder: 5
+00:24.513	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 41 - Last_pID: 41 - Count~~Eder: 5
+00:24.962	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 42 - Last_pID: 42 - Count~~Eder: 6
+00:25.002	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 42 - Last_pID: 42 - Count~~Eder: 6
+00:25.455	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 43 - Last_pID: 43 - CountJ~~Eder: 7
+00:25.487	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 43 - Last_pID: 43 - CountJ~~Eder: 7
+00:25.940	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 44 - Last_pID: 44 - Count}^~~Eder: 8
+00:25.972	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 44 - Last_pID: 44 - Count}^~~Eder: 8
+00:26.432	ID:1	~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 45 - Last_pID: 45 - Count5~~Eder: 9
+00:26.466	ID:4	~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 45 - Last_pID: 45 - Count5~~Eder: 9
+00:26.915	ID:1	~~Ed{"my_id":1, "other_id":4}]
+00:26.925	ID:1	>^~~EdDEBUG: myID: 1 - rID: 4 - pIz~~EdD: 46 - Last_pID: 46 - Countt~~Eder: 0
+00:26.947	ID:4	~~Ed{"my_id":4, "other_id":1}]
+00:26.957	ID:4	i~~EdDEBUG: myID: 4 - rID: 1 - pI5p~~EdD: 46 - Last_pID: 46 - Countt~~Eder: 0
+00:27.441	ID:3	~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 47 - Last_pID: 47 - CountT
+00:27.443	ID:3	~~Eder: 1
+00:27.471	ID:1	*~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 46 - Last_pID: 46 - Countt~~Eder: 1
+00:27.925	ID:3	~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 48 - Last_pID: 48 - Count0~~Eder: 2
+00:27.953	ID:1	~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 47 - Last_pID: 47 - CountT
+00:27.955	ID:1	~~Eder: 2
+00:28.418	ID:3	D~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 49 - Last_pID: 49 - Countc~~Eder: 3
+00:28.444	ID:1	D~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 48 - Last_pID: 48 - Count0~~Eder: 3
+00:28.901	ID:3	s~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 50 - Last_pID: 50 - Count~~Eder: 4
+00:28.933	ID:1	s~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 49 - Last_pID: 49 - Countc~~Eder: 4
+00:58.547	ID:1	~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 111 - Last_pID: 111 - Cou+~~Ednter: 1
+00:58.690	ID:2	~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 111 - Last_pID: 111 - Cou+~~Ednter: 1
+00:59.037	ID:1	~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 112 - Last_pID: 112 - Cou\~~Ednter: 2
+00:59.180	ID:2	~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 112 - Last_pID: 112 - Cou\~~Ednter: 2
+00:59.519	ID:1	S~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 113 - Last_pID: 113 - Couo~~Ednter: 3
+00:59.521	ID:1	
+00:59.669	ID:2	S~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 113 - Last_pID: 113 - Couo~~Ednter: 3
+00:59.671	ID:2	
+01:00.005	ID:1	>~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 114 - Last_pID: 114 - Cou;~~Ednter: 4
+01:00.155	ID:2	>~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 114 - Last_pID: 114 - Cou;~~Ednter: 4
+01:00.493	ID:1	#/~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 115 - Last_pID: 115 - CouQn~~Ednter: 5
+01:00.639	ID:2	#/~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 115 - Last_pID: 115 - CouQn~~Ednter: 5
+01:00.983	ID:1	B~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 116 - Last_pID: 116 - Cou~~Ednter: 6
+01:01.136	ID:2	B~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 116 - Last_pID: 116 - Cou~~Ednter: 6
+01:01.472	ID:1	~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 117 - Last_pID: 117 - Cou~~Ednter: 7
+01:01.623	ID:2	~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 117 - Last_pID: 117 - Cou~~Ednter: 7
+01:01.964	ID:1	K~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 118 - Last_pID: 118 - Couf}]~~Ednter: 8
+01:02.110	ID:2	K~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 118 - Last_pID: 118 - Couf}]~~Ednter: 8
+01:02.449	ID:1	~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 119 - Last_pID: 119 - Cou~~Ednter: 9
+01:02.593	ID:2	~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 119 - Last_pID: 119 - Cou~~Ednter: 9
+01:02.931	ID:1	~~Ed{"my_id":1, "other_id":2}]
+01:02.941	ID:1	~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 120 - Last_pID: 120 - Coug~~Ednter: 0
+01:07.993	ID:1	b~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 129 - Last_pID: 129 - Cou|1~~Ednter: 1
+01:08.454	ID:3	~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 131 - Last_pID: 131 - Cou:~~Ednter: 1
+01:08.486	ID:1	~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 130 - Last_pID: 130 - CouP~~Ednter: 2
+01:08.941	ID:3	~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 132 - Last_pID: 132 - Cou~~Ednter: 2
+01:08.971	ID:1	S~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 131 - Last_pID: 131 - Cou:~~Ednter: 3
+01:08.973	ID:1	
+01:09.435	ID:3	S~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 133 - Last_pID: 133 - Cou`~~Ednter: 3
+01:09.437	ID:3	
+01:09.461	ID:1	>~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 132 - Last_pID: 132 - Cou~~Ednter: 4
+01:09.917	ID:3	>~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 134 - Last_pID: 134 - CouR~~Ednter: 4
+01:09.950	ID:1	#/~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 133 - Last_pID: 133 - Cou`~~Ednter: 5
+01:10.405	ID:3	#/~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 135 - Last_pID: 135 - Cou~~Ednter: 5
+01:10.441	ID:1	B~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 134 - Last_pID: 134 - CouR~~Ednter: 6
+01:10.898	ID:3	B~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 136 - Last_pID: 136 - Coun~~Ednter: 6
+01:10.928	ID:1	~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 135 - Last_pID: 135 - Cou~~Ednter: 7
+01:11.390	ID:3	~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 137 - Last_pID: 137 - Cou%~~Ednter: 7
+01:11.417	ID:1	K~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 136 - Last_pID: 136 - Coun~~Ednter: 8
+01:11.877	ID:3	K~~EdDEBUG: myID: 3 - rID: 1 - pI~~EdD: 138 - Last_pID: 138 - Cou~~Ednter: 8
+01:11.907	ID:1	~~EdDEBUG: myID: 1 - rID: 3 - pI;~~EdD: 137 - Last_pID: 137 - Cou%~~Ednter: 9
+01:24.909	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 165 - Last_pID: 165 - Cou@,~~Ednter: 1
+01:25.086	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 164 - Last_pID: 164 - Cou*~~Ednter: 1
+01:25.400	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 166 - Last_pID: 166 - Cou[~~Ednter: 2
+01:25.575	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 165 - Last_pID: 165 - Cou@,~~Ednter: 2
+01:25.892	ID:3	S~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 167 - Last_pID: 167 - Cou~~Ednter: 3
+01:25.893	ID:3	
+01:26.062	ID:2	S~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 166 - Last_pID: 166 - Cou[~~Ednter: 3
+01:26.064	ID:2	
+01:26.379	ID:3	>~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 168 - Last_pID: 168 - Couw?~~Ednter: 4
+01:26.553	ID:2	>~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 167 - Last_pID: 167 - Cou~~Ednter: 4
+01:26.865	ID:3	#/~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 169 - Last_pID: 169 - Cou~~Ednter: 5
+01:27.038	ID:2	#/~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 168 - Last_pID: 168 - Couw?~~Ednter: 5
+01:27.350	ID:3	B~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 170 - Last_pID: 170 - Cou1~~Ednter: 6
+01:27.529	ID:2	B~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 169 - Last_pID: 169 - Cou~~Ednter: 6
+01:27.841	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 171 - Last_pID: 171 - Cou[~~Ednter: 7
+01:28.014	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 170 - Last_pID: 170 - Cou1~~Ednter: 7
+01:28.328	ID:3	K~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 172 - Last_pID: 172 - Coun~~Ednter: 8
+01:28.502	ID:2	K~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 171 - Last_pID: 171 - Cou[~~Ednter: 8
+01:28.819	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 173 - Last_pID: 173 - Cou~~Ednter: 9
+01:28.994	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 172 - Last_pID: 172 - Coun~~Ednter: 9
+01:29.296	ID:3	~~Ed{"my_id":3, "other_id":2}]
+01:29.306	ID:3	?~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 174 - Last_pID: 174 - Cou~~Ednter: 0
+01:29.478	ID:2	~~Ed{"my_id":2, "other_id":3}]
+01:29.488	ID:2	K~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 173 - Last_pID: 173 - Cou~~Ednter: 0
+01:29.790	ID:3	b~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 175 - Last_pID: 175 - Cou\~~Ednter: 1
+01:29.970	ID:2	b~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 174 - Last_pID: 174 - Cou~~Ednter: 1
+01:30.286	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 176 - Last_pID: 176 - Cou+~~Ednter: 2
+01:30.460	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 175 - Last_pID: 175 - Cou\~~Ednter: 2
+01:30.771	ID:3	S~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 177 - Last_pID: 177 - Coue~~Ednter: 3
+01:30.772	ID:3	
+01:30.947	ID:2	S~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 176 - Last_pID: 176 - Cou+~~Ednter: 3
+01:30.948	ID:2	
+01:31.257	ID:3	>~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 178 - Last_pID: 178 - CouO~~Ednter: 4
+01:31.432	ID:2	>~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 177 - Last_pID: 177 - Coue~~Ednter: 4
+01:31.750	ID:3	#/~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 179 - Last_pID: 179 - Cou~~Ednter: 5
+01:31.923	ID:2	#/~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 178 - Last_pID: 178 - CouO~~Ednter: 5
+01:32.235	ID:3	B~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 180 - Last_pID: 180 - Cou0~~Ednter: 6
+01:32.411	ID:2	B~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 179 - Last_pID: 179 - Cou~~Ednter: 6
+01:32.723	ID:3	~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 181 - Last_pID: 181 - Cou~~Ednter: 7
+01:32.900	ID:2	~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 180 - Last_pID: 180 - Cou0~~Ednter: 7
+01:33.213	ID:3	K~~EdDEBUG: myID: 3 - rID: 2 - pIB~~EdD: 182 - Last_pID: 182 - Cou6~~Ednter: 8
+01:33.384	ID:2	K~~EdDEBUG: myID: 2 - rID: 3 - pI-~~EdD: 181 - Last_pID: 181 - Cou~~Ednter: 8
+01:33.695	ID:2	~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 182 - Last_pID: 182 - Cou6~~Ednter: 1
+01:33.699	ID:5	~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 183 - Last_pID: 183 - Cou\G~~Ednter: 1
+01:34.183	ID:2	~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 183 - Last_pID: 183 - Cou\G~~Ednter: 2
+01:34.191	ID:5	~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 184 - Last_pID: 184 - Couu~~Ednter: 2
+01:34.669	ID:2	S~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 184 - Last_pID: 184 - Couu~~Ednter: 3
+01:34.671	ID:2	
+01:34.678	ID:5	S~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 185 - Last_pID: 185 - Coub~~Ednter: 3
+01:34.680	ID:5	
+01:35.161	ID:2	>~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 185 - Last_pID: 185 - Coub~~Ednter: 4
+01:35.163	ID:5	>~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 186 - Last_pID: 186 - Cou~~Ednter: 4
+01:35.643	ID:2	#/~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 186 - Last_pID: 186 - Cou~~Ednter: 5
+01:35.652	ID:5	#/~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 187 - Last_pID: 187 - Cou~~Ednter: 5
+01:36.136	ID:2	B~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 187 - Last_pID: 187 - Cou~~Ednter: 6
+01:36.146	ID:5	B~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 188 - Last_pID: 188 - CouU~~Ednter: 6
+01:36.622	ID:2	~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 188 - Last_pID: 188 - CouU~~Ednter: 7
+01:36.629	ID:5	~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 189 - Last_pID: 189 - Cou?f~~Ednter: 7
+01:37.111	ID:2	K~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 189 - Last_pID: 189 - Cou?f~~Ednter: 8
+01:37.117	ID:5	K~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 190 - Last_pID: 190 - Cou@~~Ednter: 8
+01:37.601	ID:2	~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 190 - Last_pID: 190 - Cou@~~Ednter: 9
+01:37.606	ID:5	~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 191 - Last_pID: 191 - Couy~~Ednter: 9
+01:38.082	ID:2	~~Ed{"my_id":2, "other_id":5}]
+01:38.093	ID:2	o~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 191 - Last_pID: 191 - Couy~~Ednter: 0
+01:38.097	ID:5	~~Ed{"my_id":5, "other_id":2}]
+01:38.107	ID:5	~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 192 - Last_pID: 192 - Cou~~Ednter: 0
+01:38.577	ID:2	b~~EdDEBUG: myID: 2 - rID: 5 - pI~~EdD: 192 - Last_pID: 192 - Cou~~Ednter: 1
+01:38.583	ID:5	b~~EdDEBUG: myID: 5 - rID: 2 - pI)~~EdD: 193 - Last_pID: 193 - Cou7~~Ednter: 1
+01:39.069	ID:1	~~EdDEBUG: myID: 1 - rID: 2 - pI~~EdD: 194 - Last_pID: 194 - Cou~~Ednter: 1
+01:39.222	ID:2	~~EdDEBUG: myID: 2 - rID: 1 - pI^~~EdD: 194 - Last_pID: 194 - Cou~~Ednter: 1
