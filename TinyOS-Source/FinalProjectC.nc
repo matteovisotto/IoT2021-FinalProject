@@ -81,9 +81,6 @@ implementation {
     	pID = rcm->packet_id;
     	rID = rcm->sender_id;
     	
-    	//printf("DEBUG: myID: %u - rID: %u - pID: %u - Last_pID: %u - Counter: %u\n", myId, rID, pID, packets[rID-1], motes[rID-1]);
-    	//printfflush();
-    	
     	if(packets[rID-1] == pID-1 || motes[rID-1] == 0){
     		packets[rID-1] = pID;
     		motes[rID-1]++;
@@ -95,6 +92,9 @@ implementation {
     	} else {
     		motes[rID-1] = 0;
     	} 
+    	
+    	//printf("DEBUG: myID: %u - rID: %u - pID: %u - Last_pID: %u - Counter: %u\n", myId, rID, pID, packets[rID-1], motes[rID-1]);
+    	//printfflush();
     	return bufPtr;
     }
   }
